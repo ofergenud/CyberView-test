@@ -1,10 +1,15 @@
+## Before you start
+
+- Run "CyberView test" in your repository.
+- Send your repository when you are done.
+
 ## Installation and Running
 
 Run the following commands to clone and run the repository.
 
 `git clone <git repo URL>`
 
-`cd <repo name>`
+`cd <repo nameק>`
 
 `npm install`
 
